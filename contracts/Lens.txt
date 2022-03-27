@@ -1,0 +1,356 @@
+Accounts
+========
+Account #0: 0xc783df8a850f42e7f7e57013759c285caa701eb6 (1000000 ETH)
+
+Account #1: 0xead9c93b79ae7c1591b1fb5323bd777e86e150d4 (1000000 ETH)
+
+Account #2: 0xe5904695748fe4a84b40b3fc79de2277660bd1d3 (1000000 ETH)
+
+Account #3: 0x92561f28ec438ee9831d00d1d59fbdc981b762b2 (1000000 ETH)
+
+Account #4: 0x2ffd013aaa7b5a7da93336c2251075202b33fb2b (1000000 ETH)
+
+Account #5: 0x9fc9c2dfba3b6cf204c37a5f690619772b926e39 (1000000 ETH)
+
+Account #6: 0xad9fbd38281f615e7df3def2aad18935a9e0ffee (1000000 ETH)
+
+Account #7: 0x8bffc896d42f07776561a5814d6e4240950d6d3a (1000000 ETH)
+
+web3_clientVersion (2)
+eth_accounts
+eth_chainId (2)
+eth_getTransactionCount
+eth_blockNumber
+eth_chainId (2)
+eth_estimateGas
+eth_getBlockByNumber
+eth_feeHistory
+eth_sendTransaction
+  Contract deployment: ModuleGlobals
+  Contract address:    0x7c2c195cd6d34b8f845992d380aadb2730bb9c6f
+  Transaction:         0x6588d4373cafc95bc63c304b513e93e122bd294520fdcf5e35cabbc58a592afc
+  From:                0xc783df8a850f42e7f7e57013759c285caa701eb6
+  Value:               0 ETH
+  Gas used:            427794 of 427794
+  Block #1:            0x974da8ef5d9139d389ef600bef17071185586cb9ef21ba0d760dc2a4b731c0bb
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract deployment: PublishingLogic
+  Contract address:    0x8858eeb3dfffa017d4bce9801d340d36cf895ccf
+  Transaction:         0x6f4825db96a758d79c764f753126d2622966da067fb9a261a1e58dca2e944835
+  From:                0xc783df8a850f42e7f7e57013759c285caa701eb6
+  Value:               0 ETH
+  Gas used:            1338666 of 1338666
+  Block #2:            0x9fd3a7da00a94bc37b8d461860cfae045e808085e03e1a11ea2011f5f433012f
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract deployment: InteractionLogic
+  Contract address:    0x0078371bdede8aac7debfff451b74c5edb385af7
+  Transaction:         0xb53a998d693490a0cf617d0a82e101c33fe944862a1a3d9c575840cdfabeb787
+  From:                0xc783df8a850f42e7f7e57013759c285caa701eb6
+  Value:               0 ETH
+  Gas used:            988528 of 988528
+  Block #3:            0x0dff058319880621392fba8e2313c0f72d5afd62451c039a8d15be2ae35a89c6
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract deployment: ProfileTokenURILogic
+  Contract address:    0xf4e77e5da47ac3125140c470c71cbca77b5c638c
+  Transaction:         0xd0c93da6e5d37c9c0b123b70c9dcb69a42a8ebcd282c6ad051afe3ae1a08cf98
+  From:                0xc783df8a850f42e7f7e57013759c285caa701eb6
+  Value:               0 ETH
+  Gas used:            3788378 of 3788378
+  Block #4:            0xca25dab4fcaf180f6fbb0e3dd963dd0678fc6add3243b9343c6478480d26b3df
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract deployment: LensHub
+  Contract address:    0xf784709d2317d872237c4bc22f867d1bae2913ab
+  Transaction:         0x0d1051ba72252c856baa605a08fb521a8cfee739265981e7464454dbf8581b06
+  From:                0xc783df8a850f42e7f7e57013759c285caa701eb6
+  Value:               0 ETH
+  Gas used:            5251956 of 5251956
+  Block #5:            0x18861095d3d6fdaf953abd7c20ab87b537bcd63f3775129e5fd20fab042ede6d
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract deployment: FollowNFT
+  Contract address:    0x3619dbe27d7c1e7e91aa738697ae7bc5fc3eaca5
+  Transaction:         0x42520900ce28b6bb533f3de9eaec6a053576224b34b0b39d5158f20095f8c079
+  From:                0xc783df8a850f42e7f7e57013759c285caa701eb6
+  Value:               0 ETH
+  Gas used:            2649166 of 2649166
+  Block #6:            0x67c074d142bdaed5673b553f5b1861fd4cbb141b639ce9d4cf9d1818ad829b01
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract deployment: CollectNFT
+  Contract address:    0x038b86d9d8fafdd0a02ebd1a476432877b0107c8
+  Transaction:         0x0b2ff073b329cf2d5541794db37ed02e6f955d1d1907ae73f57cbc0ce3ad699a
+  From:                0xc783df8a850f42e7f7e57013759c285caa701eb6
+  Value:               0 ETH
+  Gas used:            2086865 of 2086865
+  Block #7:            0x07bcc832a3606ed23cbb09e7806eb3b61f4a060d56c2d1bd43460396e303ac98
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract deployment: TransparentUpgradeableProxy
+  Contract address:    0x1a1fee7eed918bd762173e4dc5efdb8a78c924a8
+  Transaction:         0x0f88173b50e45844e01710c66897e4e1523f3b0611d4f5402c3748d89b011aea
+  From:                0xc783df8a850f42e7f7e57013759c285caa701eb6
+  Value:               0 ETH
+  Gas used:            719963 of 719963
+  Block #8:            0x84cc201ff4ecfafb24b9727cc4c743b5c295b860d921b2a423f2d1a361e597c3
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract deployment: LensPeripheryDataProvider
+  Contract address:    0x500d1d6a4c7d8ae28240b47c8fcde034d827fd5e
+  Transaction:         0xb1f461454fa93aeca289017183ce0a6fc10709986b075a553324acc71f8d6293
+  From:                0xc783df8a850f42e7f7e57013759c285caa701eb6
+  Value:               0 ETH
+  Gas used:            671883 of 671883
+  Block #9:            0x508efe69da0cd4196698546951217fb1462f417cc228fca4e19834df11f85364
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract deployment: Currency
+  Contract address:    0xc4905364b78a742ccce7b890a89514061e47068d
+  Transaction:         0xca1bd1ef5c1d8cee8903a2443ceb2a8a4f45d31fefa59cdb2ebec39876ea1c1e
+  From:                0xc783df8a850f42e7f7e57013759c285caa701eb6
+  Value:               0 ETH
+  Gas used:            648079 of 648079
+  Block #10:           0x047ba2fac5b29f0096f18cfa4877fe1a730b6fada18e783dd06e871f7cdd7c70
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract deployment: FeeCollectModule
+  Contract address:    0xd6c850aebfdc46d7f4c207e445cc0d6b0919bdbe
+  Transaction:         0xd2e53815fe4d26539f149505f943fdaede3cebb962572813a625468ece4f2e5f
+  From:                0xc783df8a850f42e7f7e57013759c285caa701eb6
+  Value:               0 ETH
+  Gas used:            958959 of 958959
+  Block #11:           0x639350231f9495df999addf68e4069fc914f13dbd829b376cc1b2b3898e5fa89
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract deployment: LimitedFeeCollectModule
+  Contract address:    0x8b5b7a6055e54a36ff574bbe40cf2ea68d5554b3
+  Transaction:         0x29510167bf68d2da10a41fcf7b12181a9ebbdf63c5e77ffca6422ffe7d3ef16f
+  From:                0xc783df8a850f42e7f7e57013759c285caa701eb6
+  Value:               0 ETH
+  Gas used:            1008385 of 1008385
+  Block #12:           0xd82bacddd8ebdd1d344ca38190652f74af117af54b279a9b10562d83f800a38d
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract deployment: TimedFeeCollectModule
+  Contract address:    0xecc0a6dbc0bb4d51e4f84a315a9e5b0438cad4f0
+  Transaction:         0xb74043bb255bb41d15ee8eed7880b2389c6672d7fbea36194baf3eef7a14f196
+  From:                0xc783df8a850f42e7f7e57013759c285caa701eb6
+  Value:               0 ETH
+  Gas used:            1003914 of 1003914
+  Block #13:           0x9779b6826bb54b24656248bf721837966355172e7af41f9a069908a803282491
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract deployment: LimitedTimedFeeCollectModule
+  Contract address:    0x20ce94f404343ad2752a2d01b43fa407db9e0d00
+  Transaction:         0xc80adbaf9ee287c378fc0e0a4310ea3b3a02a63ee5162dfdde5468dc4458f258
+  From:                0xc783df8a850f42e7f7e57013759c285caa701eb6
+  Value:               0 ETH
+  Gas used:            1114791 of 1114791
+  Block #14:           0x632d90a0e3fa2e01f7ff67f30dfb524fbd5229ddc1c390a44d903acfb5c2d39a
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract deployment: RevertCollectModule
+  Contract address:    0x1d80315fac6abd3efeebe97dec44461ba7556160
+  Transaction:         0x1523112aed4cd1553f56a8912e1620d66db446f2f960b6084ff8daa54626b266
+  From:                0xc783df8a850f42e7f7e57013759c285caa701eb6
+  Value:               0 ETH
+  Gas used:            179713 of 179713
+  Block #15:           0x791dca2bce96532b5921866eec789115573e99561ccffe60dad9e7ac139c80e5
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract deployment: EmptyCollectModule
+  Contract address:    0x2d8553f9dda85a9b3259f6bf26911364b85556f5
+  Transaction:         0x5e405a3a9cdb35c502c05e0a03097abf8fd17f527339604e5b3105d2e837573c
+  From:                0xc783df8a850f42e7f7e57013759c285caa701eb6
+  Value:               0 ETH
+  Gas used:            340100 of 340100
+  Block #16:           0x2c9e54ce0d35bd32b7348ba5079d727c5e4c61bbb5c58238bd4b2825e22efe9c
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract deployment: FeeFollowModule
+  Contract address:    0x52d3b94181f8654db2530b0fee1b19173f519c52
+  Transaction:         0xf0ecd46d1fa35d4869622bad5c60cac7224e79af69a13183eb9740608e99cced
+  From:                0xc783df8a850f42e7f7e57013759c285caa701eb6
+  Value:               0 ETH
+  Gas used:            830158 of 830158
+  Block #17:           0x32fb6512f08c3bda984d350c00b6ddd33dbd30b1c9b5fbdd678d5a48a384fce6
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract deployment: ApprovalFollowModule
+  Contract address:    0xd15468525c35bdbc1ed8f2e09a00f8a173437f2f
+  Transaction:         0x2df347f79bdda2ffabfc45c9d5888dd0e2476dd059919c365bd9374856a4109e
+  From:                0xc783df8a850f42e7f7e57013759c285caa701eb6
+  Value:               0 ETH
+  Gas used:            908261 of 908261
+  Block #18:           0xd75d9429c9712cd3c49586a0a1c42b74863fe8b3ad795390113f7007d816d469
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract deployment: FollowerOnlyReferenceModule
+  Contract address:    0x7e35eaf7e8fbd7887ad538d4a38df5bbd073814a
+  Transaction:         0x89a26bbb31e99a88a048951dff52234905b791f663853505a657b0719e2e753d
+  From:                0xc783df8a850f42e7f7e57013759c285caa701eb6
+  Value:               0 ETH
+  Gas used:            348063 of 348063
+  Block #19:           0x0e14d9789b1fce5d39d31104ac9d7d83b1d3b7e4c515c52def5888a5bcf808e7
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_getTransactionCount
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract call:       TransparentUpgradeableProxy#<unrecognized-selector>
+  Transaction:         0xfe1c8736d4c0202eb20ab6c28ad45a80db6d3619002311d8fd6ca7692a54a256
+  From:                0xead9c93b79ae7c1591b1fb5323bd777e86e150d4
+  To:                  0x1a1fee7eed918bd762173e4dc5efdb8a78c924a8
+  Value:               0 ETH
+  Gas used:            55581 of 56015
+  Block #20:           0xf333e85f98f0d98e0f4e09b3a400509424c8f9fc8efef7a3d77457474846b5a0
+
+eth_chainId
+eth_getTransactionByHash
+eth_chainId
+eth_getTransactionReceipt
+eth_chainId
+eth_estimateGas
+eth_feeHistory
+eth_sendTransaction
+  Contract call:       TransparentUpgradeableProxy#<unrecognized-selector>
+  Transaction:         0x561b04578679b5fb94c37e1893ae22391a7abfca041d693ea8c9534511646a14
+  From:                0xead9c93b79ae7c1591b1fb5323bd777e86e150d4
+  To:                  0x1a1fee7eed918bd762173e4dc5efdb8a78c924a8
+  Value:               0 ETH
+  Gas used:            55581 of 56015
+  Block #21:           0xd1fb64dd1664523252f5243debc4e080711fa9f3361915d748cbc7808c452518
+
