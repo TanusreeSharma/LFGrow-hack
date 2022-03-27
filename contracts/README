@@ -1,0 +1,8 @@
+
+The methods in the ABI (and contract) enable the UI to verify which user mints the NFT, though the individual user will not be aware that they are able to do this and will connect to Lit Protocol for the access to certain address.
+
+The UI will call the methods, namely:
+
+PaperMint badgeMint championMint thusly: [account address (msg.sender) or user, [token id 0 for paper, 1 for badge and 2 for champion] and [1] for amount to mint functionName(accAddr, 0, 1)
+
+Any issues, please ask.
